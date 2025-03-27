@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calvinarieri
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ariericalvin@gmail.com
 
